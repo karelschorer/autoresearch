@@ -21,7 +21,7 @@ Tiered pricing aligned to SKU count and service level:
 - **Professional (€799/mo):** Up to 200 SKUs. AI pre-screening + expert spot-check (10% sample review of flagged claims). Monthly compliance summary report.
 - **Enterprise (€2,000-5,000/mo):** 200-500+ SKUs. Full AI + expert validation on all flagged claims. Dedicated regulatory advisor. Custom SLA. Quarterly compliance audit.
 
-The tiered model ensures: (a) low-tier is pure SaaS with 80%+ gross margins, (b) mid-tier limits human cost to spot-checks, (c) enterprise-tier prices human review at sustainable rates. The free tier feeds the data flywheel.
+The tiered model ensures: (a) low-tier is pure SaaS with 80%+ gross margins, (b) mid-tier limits human cost to spot-checks, (c) enterprise-tier prices human review at sustainable rates. The free tier feeds the data flywheel. Value proposition anchored on time savings (primary) + fine avoidance (secondary): regulatory manager time savings of 5-25 hrs/mo are deterministic; NVWA 55% non-compliance rate and indirect costs (€15-50K per enforcement action for relabeling, legal, inventory write-off) provide additional risk-avoidance value.
 
 ## Go-to-Market Channel
 1. **ECGT deadline-driven inbound:** Free "ECGT Compliance Checker" tool that tells brands if their current claims are at risk. Drives self-qualified inbound leads. (GDPR content marketing wave is the proven analogue.)

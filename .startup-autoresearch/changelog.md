@@ -212,3 +212,20 @@
 4. False negative risk: wrongly flagging authorized claims costs brands valid marketing claims
 **Result:** C1 improved 8→9 (mutation), then dropped 9→8 (stress test). Net zero. The hybrid architecture is the right approach but the initial "80%+ deterministic" claim was overconfident.
 **Remaining gaps:** C1 needs PoC eval publication. All criteria at 8+. Score plateau at 85/100.
+
+## Cycle 17 — mixed (mutation + stress test)
+
+**Score:** 85/100 (0, net neutral)
+**Scorecard:** A1=8, A2=8, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** adjust_economics
+**Change:** Quantified total cost of non-compliance for D2 ROI model: NVWA fine schedule (€525-1,050/violation), indirect costs (€15-50K), 55% non-compliance rate. Initially improved D2 to 9.
+**Hypothesis:** Shifting D2 from pure time-savings ROI to total-cost-of-non-compliance ROI strengthens the value/price ratio above 3x.
+**Evidence found:** NVWA per-violation fines are low (€525-1,050), but indirect costs are real (relabeling €10-100K, legal €5-25K). 55% non-compliance rate. One case: >€73K fines stacked. Ponemon benchmark: non-compliance costs 2.71x compliance costs.
+**Stress test (D2):** Five weaknesses identified:
+1. Enforcement probability is ~5% (not 15-25%) — NVWA oversees 250K businesses, inspects ~16K/yr total, supplement-specific sweeps are small
+2. Ponemon 2.71x is a category error — 53 US enterprise cybersecurity firms ≠ Dutch SME supplement brands
+3. Freelance consultant (€2-4K one-time) undercuts Starter tier (€3.6K/yr) for low-churn brands
+4. Honest ROI is 1-2.5x (not 1.4-7.7x) when using realistic enforcement probability
+5. Probabilistic ROI ("you might get fined") is hard to sell vs deterministic time savings
+**Result:** D2 improved 8→9 (mutation), then dropped 9→8 (stress test). Net zero. Fine-avoidance data is useful context but time savings must lead the pitch. Ponemon benchmark removed.
+**Remaining gaps:** D2 Starter tier value/price tight. All criteria at 8+. Score plateau at 85/100. Two consecutive net-zero cycles suggest desk research ceiling.
