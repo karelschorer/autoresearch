@@ -31,11 +31,12 @@ The tiered model ensures: (a) low-tier is pure SaaS with 80%+ gross margins, (b)
 5. **Founder network:** Stijn's ex-Unilever/FMCG connections for warm introductions to first 5-10 design partners.
 
 ## Defensibility & Moat
-- **Proprietary claim adjudication dataset:** Every claim reviewed through ClaimPilot generates structured data (claim text → regulation match → verdict → expert override). This accumulates into a proprietary eval/training dataset that improves accuracy and cannot be replicated without equivalent customer volume.
-- **Customer-specific regulatory history:** The managed service model creates per-customer claim archives with audit trails. Switching costs increase over time as the platform becomes the system of record for regulatory decisions.
-- **Domain-specific eval harness:** The PoC eval harness, validated against real regulatory cases, is a competitive advantage that generic AI tools cannot match without equivalent regulatory domain investment.
+*Note: Technology (NLP over public corpus) is NOT the moat — it's standard engineering. The moat builds from speed-to-revenue in a winner-take-most vertical market.*
+- **Speed-to-first-revenue advantage:** Vertical SaaS leaders capture 40-60% market share (Windsor Drake Q4 2025). First credible entrant with paying customers compounds switching costs, data, and word-of-mouth in a small industry. Bootstrap speed avoids 6-12 month fundraising delay.
+- **Compliance switching costs (system of record):** Audit trail continuity, accumulated configuration, workflow embedding, regulatory continuity risk. Customers won't switch mid-audit-cycle. Compliance SaaS churn 1.4-1.9% monthly.
+- **Proprietary claim adjudication dataset:** Every claim reviewed generates structured data (claim text → regulation match → verdict → expert override). Data flywheel kicks in at ~50-200 customers. Cannot be replicated without equivalent customer volume.
 - **Network effects via free tier:** Free-tier-for-data strategy means early adoption generates claim verification data that improves the product for paid customers.
-- **Founder combination:** Stijn's FMCG network (ex-Unilever/Magnum) provides warm introductions that a generic AI startup would need 12-18 months to build. Karel's technical PoC is already functional. Bootstrap execution speed avoids the 6-12 month fundraising delay that funded competitors face.
+- **Founder combination:** Stijn's FMCG network provides warm introductions for first 5-10 design partners. Karel's working PoC accelerates time-to-first-revenue. These are speed advantages, not permanent moats — the permanent moat builds from customer relationships and data.
 
 ## Key Assumptions
 1. Claim verification is a significant, painful time sink for the target persona

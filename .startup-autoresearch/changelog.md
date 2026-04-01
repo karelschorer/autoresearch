@@ -280,3 +280,19 @@
 6. **ECGT is about sustainability claims, not health claims** — ECGT (EU 2024/825) targets environmental claims. Using it as health claims catalyst is a conflation.
 **Result:** E1 dropped 8→7. The moat is a head start (3-6 months), not a structural advantage. No paying customers, no proprietary dataset, no production system. Most painful stress test so far.
 **Remaining gaps:** E1 (7) is now the weakest criterion. Needs first paying customers to generate real moat. ECGT conflation needs addressing.
+
+## Cycle 21 — keep (E1 recovered via speed-to-revenue reframe)
+
+**Score:** 86/100 (+1)
+**Scorecard:** A1=9, A2=8, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** reposition_value
+**Change:** Reframed E1 from "technical moat" to "speed-to-revenue moat in winner-take-most vertical." Technology is standard engineering — the moat builds from getting to paying customers first, creating compliance switching costs (audit trail continuity, workflow embedding), and accumulating proprietary adjudication data.
+**Hypothesis:** The Cycle 20 stress test proved the NLP isn't a moat. But vertical SaaS dynamics strongly favor the first credible entrant: leaders capture 40-60% market share, compliance switching costs are uniquely strong, and bootstrapped companies can win against funded competitors (Sprinto vs Vanta/Drata).
+**Evidence found:**
+- Vertical SaaS winner captures 40-60% market share, ~66% of category exit value (Tunguz/Redpoint)
+- Compliance SaaS switching costs: audit trail continuity, integration depth, workflow embedding, regulatory continuity risk
+- Bootstrapped compliance examples: Sprinto ($38M revenue vs Vanta's $203M raised), ComplyJet won from Drata
+- "Capabilities before moats" (Equal Ventures): moats emerge from customer relationships and data, not technology
+- Data flywheel at 50-200 customers for domain-specific compliance
+**Result:** E1 recovered 7→8. The speed-to-revenue thesis is honest and addresses every Cycle 20 criticism. The moat isn't technology — it's getting to paying customers first in a vertical that rewards the leader.
+**Remaining gaps:** All criteria at 8+. E1 needs first paying customer to reach 9. ECGT conflation partially addressed (sustainability vs health claims).
