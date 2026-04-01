@@ -312,3 +312,16 @@
 **Model changes:** Revised GTM to NVWA enforcement-driven content marketing, founder network (primary), direct outreach to non-compliant brands, product-led trial (not freemium), trade event presence. Fixed ICP TAM to 30-70 brands.
 **Result:** D1 dropped 8→7. E2 dropped 8→7. The ECGT conflation was systemic — it affected GTM, timing, and ICP framing. Model.md updated extensively.
 **Remaining gaps:** D1 (7) and E2 (7) are the weakest criteria. Need mutations to recover them based on honest (non-ECGT) demand drivers.
+
+## Cycle 23 — keep (D1 and E2 recovered via honest catalysts)
+
+**Score:** 86/100 (+2)
+**Scorecard:** A1=9, A2=8, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** ride_catalyst
+**Change:** Replaced ECGT-dependent GTM and timing with honest, health-claims-specific catalysts:
+- **CJEU Novel Nutriology ruling (April 2025):** Killed the "on-hold" botanical loophole. Any company using botanical claims without proper transitional filing is NOW in violation. Botanicals are the fastest-growing supplement segment. This is the real timing catalyst — recent, binding, health-claims-specific.
+- **Marketplace gating (Amazon/Bol.com):** Third-party compliance verification now required. Listing suppression for non-compliant products creates immediate purchase triggers.
+- **Revised GTM:** Founder-led ABM (30-70 named accounts), enforcement-driven outreach (NVWA sweep results), Amazon/Bol.com seller communities, industry media content, NPN workshop presence, time-limited trial (not freemium).
+**Evidence found:** NVWA Jaarbeeld 2024 (7,458 fines, 1,233 enforcement measures). CJEU Case C-386/23 invalidated botanical claims. Amazon EU requires NSF/UL/Eurofins verification. Bol.com delists non-compliant supplements. NPN offers compliance workshops to 104 members.
+**Result:** D1 recovered 7→8. E2 recovered 7→8. The business case no longer depends on ECGT at all. Model.md problem statement, ICP, and GTM all updated.
+**Remaining gaps:** All criteria at 8+. Score 86/100. TAM is small (30-70 brands) and every customer requires founder-led sales. Real-world validation still needed.
