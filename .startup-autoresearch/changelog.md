@@ -127,3 +127,45 @@
 - **Fix applied:** Added post-flag workflow to suggest compliant wordings from EU Register matching product ingredients/dosage. Closes the job-to-be-done without becoming a full PLM platform.
 **Result:** C2 dropped from 9 to 7 (stress test), recovered to 8 (fix applied). Net: C2 9→8, total 88→87.
 **Remaining gaps:** C2 (8) — platform pressure ceiling remains. D2 (8) — Starter tier tight. All criteria now at 8+ except none — but total improvement slowing.
+
+## Cycle 11 — keep
+
+**Score:** 88/100 (+1)
+**Scorecard:** A1=8, A2=9, B1=9, B2=9, C1=8, C2=9, D1=10, D2=8, E1=8, E2=9
+**Mutation operator:** ride_catalyst
+**Change:** Expanded the wedge to include ECGT sustainability claim pre-screening alongside health claims. Same customer, same packaging, two regulatory clocks, no existing tool covers both.
+**Hypothesis:** ECGT enforcement (Sept 2026) affects the same ICP. Adding sustainability claim checking creates a combined value proposition that justifies higher pricing and increases switching costs.
+**Evidence found:** 70%+ of consumers prefer eco-branded products. ECGT bans "natural," "sustainable," "eco-friendly" without substantiation. No tool covers both EC 1924/2006 AND ECGT for food/supplements. The supplement sector is explicitly named as affected by ECGT.
+**Result:** C2 recovered 8→9. Combined health+sustainability wedge is stronger than health claims alone.
+**Remaining gaps:** D1, A2, E2 untested under stress.
+
+## Cycle 12 — stress_test
+
+**Score:** 83/100 (-5)
+**Scorecard:** A1=8, A2=9, B1=9, B2=9, C1=8, C2=9, D1=7, D2=8, E1=8, E2=9
+**Mutation operator:** none (stress test)
+**Change:** Stress-tested D1 — can the team actually convert NPN members and Vitafoods contacts?
+**Hypothesis:** Testing whether "100+ identifiable companies" translates into actual customers.
+**Evidence found:**
+- Cold email reply rates: 3-5%, meeting-booked: 1-2%. From 1,455 Vitafoods exhibitors, expect 15-30 meetings, not 1,455 leads.
+- NPN member directory NOT accessible to non-members. List is gated.
+- Discovery channels: consultant referrals and word-of-mouth dominate. Cold outreach is low on list.
+- Early CAC: $2,000-3,000 per customer. At €299-799/month, payback is uncomfortably long.
+- Sales cycle: 3-6 months for SME compliance software.
+**Result:** D1 dropped 10→7. The companies exist but converting them is significantly harder than assumed.
+**Remaining gaps:** A2 and E2 untested. D1 needs GTM strategy fix.
+
+## Cycle 13 — stress_test
+
+**Score:** 80/100 (-3)
+**Scorecard:** A1=8, A2=7, B1=9, B2=9, C1=8, C2=9, D1=7, D2=8, E1=8, E2=7
+**Mutation operator:** none (stress test)
+**Change:** Stress-tested A2 (regulatory expansion) and E2 (timing catalyst).
+**Hypothesis:** Testing whether the regulatory expansion thesis is as strong as scored.
+**Evidence found:**
+- **Simplification Omnibus (Dec 2025):** Proposes amending 10 regulations. Could REDUCE complexity that ClaimPilot monetizes.
+- **ECGT enforcement patchiness:** National authorities enforce variably. GDPR early enforcement was patchy for years. Supplement claims are lower-profile than aviation/fashion greenwashing.
+- **Botanical claims perpetually "imminent":** On hold since 2012 (14 years). CJEU April 2025 ruling tightened restrictions but Commission evaluation still suspended. Cannot be used as a "NOW" argument.
+- **GCD withdrawal:** Signals EU will sacrifice regulatory instruments under political pressure. ECGT fills gap but precedent reduces certainty.
+**Result:** A2 dropped 9→7. E2 dropped 9→7. Regulatory expansion is real but thesis was overconfident.
+**Remaining gaps:** D1 (7), A2 (7), E2 (7) are the three weakest. Need mutations to address D1 conversion friction and regulatory uncertainty.
