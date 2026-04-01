@@ -229,3 +229,20 @@
 5. Probabilistic ROI ("you might get fined") is hard to sell vs deterministic time savings
 **Result:** D2 improved 8→9 (mutation), then dropped 9→8 (stress test). Net zero. Fine-avoidance data is useful context but time savings must lead the pitch. Ponemon benchmark removed.
 **Remaining gaps:** D2 Starter tier value/price tight. All criteria at 8+. Score plateau at 85/100. Two consecutive net-zero cycles suggest desk research ceiling.
+
+## Cycle 18 — keep (mutation survived stress test)
+
+**Score:** 87/100 (+2)
+**Scorecard:** A1=9, A2=8, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** reposition_value
+**Change:** Documented A1 workflow pain step-by-step: 7-step manual verification process, 15 min - 3 hrs per claim, 2-8 hrs per product, only 30% use verbatim authorized wording (wording errors = #1 failure mode). Added specific pain points: wording precision, conditions cross-referencing, botanical limbo, multi-country fragmentation, poor EU Register UX.
+**Hypothesis:** A1 was limited by structural/inferential evidence ("15-25% of role"). Documenting the actual step-by-step workflow with time estimates makes the pain concrete and maps directly to product features.
+**Evidence found:** Ulster University 2025 (41-51% non-compliance), Novi Sad 2024 (89%), Alicante 2025 (only 6/38 claims compliant). Only 30% use verbatim wording. 15-45 min per claim, 2-8 hrs per product. FoodChainID identified as more direct competitor.
+**Stress test (A1):** Five angles tested:
+1. One-time task? NO — regulations change constantly (CJEU botanical ruling, ECGT, national changes)
+2. Companies don't care? PARTIALLY — but enforcement escalating (NVWA up to 36,729 inspections 2024)
+3. FoodChainID more direct competitor? YES — but enterprise-oriented, formulation-first, no paraphrase detection
+4. 15-30% enough for standalone tool? MODERATE — but ROI works at €299/mo (needs 3-5 hrs/mo savings)
+5. Weekly hours too high? PARTIALLY — 15-30% is peak-state, steady-state probably 5-8 hrs/week
+**Result:** A1 improved 8→9 and held through stress test. First net-positive cycle since Cycle 15.
+**Remaining gaps:** FoodChainID differentiation needs to be addressed in B1/B2. A1 needs customer interview to reach 10.
