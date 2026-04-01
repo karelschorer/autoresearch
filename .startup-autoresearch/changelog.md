@@ -262,3 +262,21 @@
 - **NO existing tool** does AI-powered EU claim-text pre-screening with semantic analysis of paraphrased claims.
 **Stress test result:** The competitive analysis turned into a validation. B1/B2 scores hold at 9. The gap is stronger than previously documented.
 **Remaining gaps:** A2=8, C1=8, D1=8, D2=8, E1=8, E2=8 — six criteria at 8, need mutations to push to 9.
+
+## Cycle 20 — stress_test (E1 dropped significantly)
+
+**Score:** 85/100 (-2)
+**Scorecard:** A1=9, A2=8, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=7, E2=8
+**Mutation operator:** strengthen_moat
+**Change:** Attempted to strengthen E1 by articulating the "semantic paraphrase interpretation" moat from Cycle 19 competitive analysis. Initially improved E1 to 9.
+**Hypothesis:** The competitive gap (no tool does EU claim-text NLP) translates into a defensible technical moat for the founding team.
+**Evidence found:** Cycle 19 competitive analysis showed no competitor does semantic EU claim-text analysis.
+**Stress test (E1) — severe:** Six pillars challenged:
+1. **NLP over 270 public claims is standard engineering** — any ML team replicates in weeks, not months. Corpus is public.
+2. **Generic LLMs are free substitutes** — paste marketing copy into ChatGPT/Claude and ask "is this compliant?" Claude for Healthcare launched Jan 2026.
+3. **REMATIQ precedent** — 0 to funded MedTech compliance AI product in 18 months (€5.4M raise April 2025).
+4. **SGS DigiComply has infrastructure** — adding claim-text screening is a product decision, not a moonshot.
+5. **Founder network exhausts in 3-6 months** — ~5-10 intros covers 5-10% of target market.
+6. **ECGT is about sustainability claims, not health claims** — ECGT (EU 2024/825) targets environmental claims. Using it as health claims catalyst is a conflation.
+**Result:** E1 dropped 8→7. The moat is a head start (3-6 months), not a structural advantage. No paying customers, no proprietary dataset, no production system. Most painful stress test so far.
+**Remaining gaps:** E1 (7) is now the weakest criterion. Needs first paying customers to generate real moat. ECGT conflation needs addressing.
