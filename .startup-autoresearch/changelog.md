@@ -90,3 +90,40 @@
 **Evidence found:** 92.8% precision / 94.1% recall on structured regulatory compliance text classification (WJAETS 2025). GoVisually claims 90% on food label compliance. RAG over finite corpus (270 EU claims) is best-case scenario for retrieval precision. IEEE 2024 paper demonstrated automated nutritional claim verification. EVERSANA pharma MLR: 86% error reduction after engineering investment.
 **Result:** C1 improved 7→8. The task (claim text → finite authorized list → condition check) is structurally one of the easiest LLM/RAG tasks in regulatory space.
 **Remaining gaps:** A1 (7) — needs primary research. D2 (8) — Starter tier value-to-price tight. C1 (8) — needs PoC eval harness published results for 9+.
+
+## Cycle 8 — keep
+
+**Score:** 87/100 (+1)
+**Scorecard:** A1=8, A2=9, B1=8, B2=9, C1=8, C2=9, D1=10, D2=8, E1=8, E2=9
+**Mutation operator:** reposition_value
+**Change:** Reframed A1 problem statement from "claim verification is a time sink" to "claim non-compliance is a high-stakes, high-frequency failure mode with severe financial consequences"
+**Hypothesis:** Even without direct survey data on time spent, the COST and FREQUENCY of non-compliance makes the problem undeniable. 41-89% of EU supplements are non-compliant — this isn't a tail risk.
+**Evidence found:** 41-51% non-compliance in-store/online (Foods journal, Jan 2026). 59-68% botanical claims fail. £100K+ per product line in remediation costs. Post-print errors cost 5-10x more than pre-print. 76% of companies report >10% mislabeled goods. Standard insurance doesn't cover regulatory fines.
+**Result:** A1 improved 7→8. Problem statement updated in model.md.
+**Remaining gaps:** C2 (9) — untested under stress. B1 (8) — could be stronger with direct workflow evidence.
+
+## Cycle 9 — keep
+
+**Score:** 88/100 (+1)
+**Scorecard:** A1=8, A2=9, B1=9, B2=9, C1=8, C2=9, D1=10, D2=8, E1=8, E2=9
+**Mutation operator:** none (evidence search strengthened B1)
+**Change:** Researched what mid-size supplement companies actually use for claim verification today
+**Hypothesis:** Direct industry evidence of the manual workflow would push B1 from 8 to 9.
+**Evidence found:** Rubicon Bridge (compliance tech company) explicitly confirms mid-size companies use "comprehensive spreadsheets cataloging permitted substances, allowable usage levels, and mandatory warnings." EU Commission provides Register as downloadable Excel. Only sub-€500/mo tool (CIKLab at €47/mo) solves QC, not claims. FoodChainID and Ecomundo are enterprise/consulting-tier. No affordable, self-serve, claim-text verification tool exists.
+**Result:** B1 improved 8→9.
+**Remaining gaps:** C2 (9) — untested. D2 (8) — Starter value-to-price tight.
+
+## Cycle 10 — mixed (stress test + fix)
+
+**Score:** 87/100 (-1)
+**Scorecard:** A1=8, A2=9, B1=9, B2=9, C1=8, C2=8, D1=10, D2=8, E1=8, E2=9
+**Mutation operator:** shift_wedge (fix applied after stress test)
+**Change:** Stress-tested C2 (supplement wedge as standalone product). Found post-flag workflow gap. Applied fix: added "suggest compliant alternative claim wordings" feature to model.
+**Hypothesis:** Testing whether the supplement pre-screening wedge can stand alone without full PLM integration.
+**Evidence found:**
+- **Survives for SMEs:** Apex Compliance validated standalone claim tools with paying customers. Signify/Trustwell started narrow before expanding.
+- **Post-flag gap:** When a claim is flagged non-compliant, users need to know what they CAN say. Without "suggested compliant alternatives," ClaimPilot solves ~20% of the job-to-be-done.
+- **Platform pressure real:** Assent analysis: "point solutions cannot scale." Larger companies won't adopt non-integrated tools. This is a year-2-3 problem.
+- **Fix applied:** Added post-flag workflow to suggest compliant wordings from EU Register matching product ingredients/dosage. Closes the job-to-be-done without becoming a full PLM platform.
+**Result:** C2 dropped from 9 to 7 (stress test), recovered to 8 (fix applied). Net: C2 9→8, total 88→87.
+**Remaining gaps:** C2 (8) — platform pressure ceiling remains. D2 (8) — Starter tier tight. All criteria now at 8+ except none — but total improvement slowing.

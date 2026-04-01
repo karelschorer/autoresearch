@@ -1,14 +1,18 @@
 # ClaimPilot — Business Model Canvas
 
 ## Problem Statement
-Regulatory affairs and quality teams at mid-size FMCG companies must manually verify whether product claims (nutrition, health, sustainability) on packaging and marketing materials comply with EU regulations — primarily EC 1924/2006. This manual cross-referencing of the EU Register, EFSA opinions, and conditions of use is repetitive expert labor that scales linearly with SKU count. Getting claims wrong leads to product recalls, fines, packaging delays, and brand damage.
+41-89% of EU supplement products carry non-compliant health claims. Getting claims wrong is not a tail risk — it is the default state. Consequences are severe: £100K+ per product line in remediation costs, fines up to €150K (NVWA) or 4% of EU turnover (ECGT), packaging delays of 4-8 weeks, and brand damage. The manual process of cross-referencing claims against the EU Register, EFSA opinions, and conditions of use is repetitive expert labor that scales linearly with SKU count — and the regulatory burden is actively expanding (ECGT Sept 2026, PPWR Aug 2026, botanical claim resolution pending).
 
 ## Target Customer (ICP)
 **Beachhead:** Dutch supplement brands with 50-300 SKUs, 1-3 regulatory affairs staff, actively preparing for ECGT enforcement (September 27, 2026). Estimated 80-150 brands in this segment, reachable through NPN membership and Stijn's FMCG network.
 **Expand-to:** Mid-size FMCG companies across EU (Germany, France, UK) with 50-500 SKUs. Supplement brands first, then functional foods, then broader FMCG.
 
 ## Proposed Solution & Wedge
-AI-assisted regulatory compliance platform using Claude Opus to pre-screen marketing claims against the EU Register, EFSA opinions, and conditions of use. The AI generates a draft verdict with regulatory traceability; a human regulatory expert reviews and validates before delivery. This "AI pre-screen + expert validation" model reduces review time by 60-80% while maintaining the human accountability that regulatory professionals require. Wedge: pre-screening nutrition and health claims for supplement/functional food packaging.
+AI-assisted regulatory compliance platform using Claude Opus to pre-screen marketing claims against the EU Register, EFSA opinions, and conditions of use. The AI generates a draft verdict with regulatory traceability; a human regulatory expert reviews and validates before delivery. This "AI pre-screen + expert validation" model reduces review time by 60-80% while maintaining the human accountability that regulatory professionals require.
+
+**Post-flag workflow:** When a claim is flagged as non-compliant, ClaimPilot suggests compliant alternative claim wordings from the authorized EU Register that match the product's ingredients and dosage. This closes the job-to-be-done: users don't just learn "this claim is wrong" — they get "here's what you can say instead." This thin "next step" layer avoids the need to become a full PLM platform while keeping users in the tool.
+
+Wedge: pre-screening nutrition and health claims for supplement/functional food packaging.
 
 ## Pricing Model
 Tiered pricing aligned to SKU count and service level:

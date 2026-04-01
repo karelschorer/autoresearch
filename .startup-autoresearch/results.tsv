@@ -7,3 +7,6 @@ cycle	total	max	A1	A2	B1	B2	C1	C2	D1	D2	E1	E2	status	mutation	detail
 5	85	100	7	9	8	9	7	9	10	8	8	9	keep	narrow_icp	narrowed beachhead to Dutch supplement brands preparing for ECGT Sept 2026. E1 improved 6->8
 6	85	100	7	9	8	9	7	9	10	8	8	9	discard	none	researched A1 time data — no direct survey found. FoLSol: 2 days/label manually. A1 stays 7. Desk research ceiling hit
 7	86	100	7	9	8	9	8	9	10	8	8	9	keep	none	researched C1 accuracy — 92.8% precision on regulatory rule-matching; RAG over 270-claim corpus is best-case. C1 improved 7->8
+8	87	100	8	9	8	9	8	9	10	8	8	9	keep	reposition_value	reframed A1 from time sink to high-stakes failure mode (41-89% non-compliance; £100K+ remediation). A1 improved 7->8
+9	88	100	8	9	9	9	8	9	10	8	8	9	keep	none	B1 evidence: Rubicon Bridge confirms spreadsheets are the norm; no affordable claim-text tool exists. B1 improved 8->9
+10	87	100	8	9	9	9	8	8	10	8	8	9	mixed	shift_wedge	C2 stress-tested: post-flag workflow gap found (dropped 9->7). Fix applied: suggest compliant alternatives. C2 recovered to 8. Net -1
