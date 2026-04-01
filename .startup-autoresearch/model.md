@@ -15,6 +15,13 @@ AI-assisted regulatory compliance platform using Claude Opus to pre-screen marke
 ## Go-to-Market Channel
 Founder network (Stijn's ex-Unilever/FMCG connections), industry associations (NPN, Food Supplements Europe), trade events (Vitafoods), LinkedIn outreach to regulatory affairs managers.
 
+## Defensibility & Moat
+- **Proprietary claim adjudication dataset:** Every claim reviewed through ClaimPilot generates structured data (claim text → regulation match → verdict → expert override). This accumulates into a proprietary eval/training dataset that improves accuracy and cannot be replicated without equivalent customer volume.
+- **Customer-specific regulatory history:** The managed service model creates per-customer claim archives with audit trails. Switching costs increase over time as the platform becomes the system of record for regulatory decisions.
+- **Domain-specific eval harness:** The PoC eval harness, validated against real regulatory cases, is a competitive advantage that generic AI tools cannot match without equivalent regulatory domain investment.
+- **Network effects via free tier:** Free-tier-for-data strategy means early adoption generates claim verification data that improves the product for paid customers.
+- **Founder combination:** Stijn's FMCG network (ex-Unilever/Magnum) provides warm introductions that a generic AI startup would need 12-18 months to build. Karel's technical PoC is already functional. Bootstrap execution speed avoids the 6-12 month fundraising delay that funded competitors face.
+
 ## Key Assumptions
 1. Claim verification is a significant, painful time sink for the target persona
 2. The pain is acute enough at €300-500/month to justify a subscription
@@ -22,3 +29,4 @@ Founder network (Stijn's ex-Unilever/FMCG connections), industry associations (N
 4. Mid-market is underserved by existing enterprise tools and consultancies
 5. The team can build trust with risk-averse regulatory professionals
 6. Regulatory expansion (Green Claims Directive) will increase demand
+7. Each customer engagement generates proprietary data that strengthens the moat over time

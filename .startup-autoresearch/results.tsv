@@ -1,2 +1,4 @@
 cycle	score	max	status	mutation	detail
 0	8	10	baseline	none	initial model: AI regulatory claim verification for mid-size EU FMCG/supplements. NO on C1 (LLM accuracy unproven >90%) and E1 (team moat nascent, no customers/proprietary data)
+1	9	10	keep	reposition_value	repositioned from AI-decided to AI-assisted + human expert validation. C1 flipped NO->YES. Veeva PromoMats analogue validates model; FDA adopted same pattern; 60-80% time savings credible
+2	10	10	keep	strengthen_moat	added proprietary data moat strategy (claim adjudication flywheel + system-of-record stickiness + free-tier-for-data). E1 flipped NO->YES. Niche unoccupied by funded competitors
