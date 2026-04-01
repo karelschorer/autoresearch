@@ -57,3 +57,36 @@
 **Evidence found:** Professional tier math: 28 spot-check claims × 10 min = 5 hrs × €50/hr = €250 cost on €799 revenue = 69% gross margin. Comparable tools (VComply $1K/mo, Regology $1.25K/user/mo) validate price range. Freemium conversion in compliance SaaS is 5-8%. Enterprise pricing of €2-5K/mo is in-market for managed compliance.
 **Result:** D2 recovered 5→8. Total improved 73→82.
 **Remaining gaps:** E1 (6/10) — moat is pathway not asset. C1 (7/10) — needs PoC accuracy data. A1 (7/10) — needs direct survey evidence on time spent.
+
+## Cycle 5 — keep
+
+**Score:** 85/100 (+3)
+**Scorecard:** A1=7, A2=9, B1=8, B2=9, C1=7, C2=9, D1=10, D2=8, E1=8, E2=9
+**Mutation operator:** narrow_icp
+**Change:** Narrowed beachhead from "mid-size EU FMCG 50-500 SKUs" to "Dutch supplement brands with 50-300 SKUs preparing for ECGT enforcement September 27, 2026"
+**Hypothesis:** The team's advantages (Stijn's Dutch FMCG network, NVWA domain knowledge, working PoC) are strongest in NL. The ECGT deadline creates urgency that favors fast-moving bootstrapped teams over funded competitors. A narrow beachhead is easier to defend.
+**Evidence found:** NL supplement market €600-800M, 60% of Dutch adults consume supplements, estimated 80-150 brands at 50-300 SKUs. ECGT enforcement Sept 2026 is a hard deadline. Dutch enforcement culture already active (KLM greenwashing ruling, NVWA crackdowns). SGS DigiComply lacks Dutch-specific supplement depth. Country-first compliance SaaS is a validated playbook.
+**Result:** E1 improved 6→8. All other criteria unchanged.
+**Remaining gaps:** A1 (7) — desk research ceiling, needs interviews. C1 (7) — needs PoC accuracy data. D2 (8) — Starter tier value-to-price ratio is tight.
+
+## Cycle 6 — discard
+
+**Score:** 85/100 (no change)
+**Scorecard:** A1=7, A2=9, B1=8, B2=9, C1=7, C2=9, D1=10, D2=8, E1=8, E2=9
+**Mutation operator:** none (evidence search, no model change)
+**Change:** Searched for direct quantitative data on time spent on claim verification by regulatory affairs professionals
+**Hypothesis:** Finding a direct survey or time-motion study measuring % of role on claim verification would push A1 from 7 to 8-9.
+**Evidence found:** FoLSol reports 2 days per label manually (70% reduction with software). Job postings show claims as 1 of 4-6 core duties (~15-25%). RAPS Workforce Report likely has data but is paywalled. FDA spends 8.1 FTEs on health claim review. No direct industry survey found measuring hours/week on claim verification.
+**Result:** A1 unchanged at 7. Desk research has hit its ceiling for this criterion — it requires primary research (customer interviews) to improve.
+**Remaining gaps:** Same as Cycle 5.
+
+## Cycle 7 — keep
+
+**Score:** 86/100 (+1)
+**Scorecard:** A1=7, A2=9, B1=8, B2=9, C1=8, C2=9, D1=10, D2=8, E1=8, E2=9
+**Mutation operator:** none (evidence search strengthened C1)
+**Change:** Researched specific accuracy benchmarks for AI/LLM on regulatory text classification tasks comparable to EU health claim verification
+**Hypothesis:** Finding published accuracy figures for structured regulatory rule-matching (closer to ClaimPilot's task than general legal reasoning) would improve C1 score.
+**Evidence found:** 92.8% precision / 94.1% recall on structured regulatory compliance text classification (WJAETS 2025). GoVisually claims 90% on food label compliance. RAG over finite corpus (270 EU claims) is best-case scenario for retrieval precision. IEEE 2024 paper demonstrated automated nutritional claim verification. EVERSANA pharma MLR: 86% error reduction after engineering investment.
+**Result:** C1 improved 7→8. The task (claim text → finite authorized list → condition check) is structurally one of the easiest LLM/RAG tasks in regulatory space.
+**Remaining gaps:** A1 (7) — needs primary research. D2 (8) — Starter tier value-to-price tight. C1 (8) — needs PoC eval harness published results for 9+.

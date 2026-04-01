@@ -4,3 +4,6 @@ cycle	total	max	A1	A2	B1	B2	C1	C2	D1	D2	E1	E2	status	mutation	detail
 2	78	100	7	9	8	9	7	9	10	8	6	9	keep	strengthen_moat	added data moat strategy + articulated competitive gap. E1 improved 3->6; B1/B2 strengthened by competitive research
 3	73	100	7	9	8	9	7	9	10	5	6	9	stress_test	none	stress-tested D2 pricing: managed service at €300-500/mo breaks at 200 SKUs. Human review cost exceeds subscription price. D2 dropped 8->5
 4	82	100	7	9	8	9	7	9	10	8	6	9	keep	adjust_economics	tiered pricing (Free/€299/€799/€2-5K) fixes unit economics. 69% gross margin at Professional tier. D2 recovered 5->8
+5	85	100	7	9	8	9	7	9	10	8	8	9	keep	narrow_icp	narrowed beachhead to Dutch supplement brands preparing for ECGT Sept 2026. E1 improved 6->8
+6	85	100	7	9	8	9	7	9	10	8	8	9	discard	none	researched A1 time data — no direct survey found. FoLSol: 2 days/label manually. A1 stays 7. Desk research ceiling hit
+7	86	100	7	9	8	9	8	9	10	8	8	9	keep	none	researched C1 accuracy — 92.8% precision on regulatory rule-matching; RAG over 270-claim corpus is best-case. C1 improved 7->8
