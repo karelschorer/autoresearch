@@ -169,3 +169,30 @@
 - **GCD withdrawal:** Signals EU will sacrifice regulatory instruments under political pressure. ECGT fills gap but precedent reduces certainty.
 **Result:** A2 dropped 9→7. E2 dropped 9→7. Regulatory expansion is real but thesis was overconfident.
 **Remaining gaps:** D1 (7), A2 (7), E2 (7) are the three weakest. Need mutations to address D1 conversion friction and regulatory uncertainty.
+
+## Cycle 14 — keep
+
+**Score:** 83/100 (+3)
+**Scorecard:** A1=8, A2=7, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** reposition_value
+**Change:** Shifted GTM from cold outreach to ECGT-urgency inbound + consultant partnerships + PLG + trade association co-marketing
+**Hypothesis:** The D1 stress test showed cold outreach yields 1-2% meeting rate. Inbound content, consultant referrals, and PLG have much higher conversion and lower CAC.
+**Evidence found:** Referral leads convert at 24.7% MQL-to-SQL (vs 15-21% average). GDPR 2017-2018 content wave proves regulatory deadline-driven inbound works (75% of GDPR-ready companies reported positive revenue impact). PLG freemium-to-paid conversion 9-12% median. Trade association sponsorship feasible at $500-5,000. NL enforcement anchor (NVWA + ACM dual regulators) strengthens E2 to 8.
+**Result:** D1 recovered 7→8. E2 recovered 7→8 (anchored on NL-specific enforcement, not EU-wide expansion).
+**Remaining gaps:** A2 (7) — still needs NL-specific enforcement reframe.
+
+## Cycle 15 — keep (final cycle)
+
+**Score:** 85/100 (+2)
+**Scorecard:** A1=8, A2=8, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** reposition_value
+**Change:** Reframed A2 from "EU-wide regulatory expansion" to "Dutch enforcement is happening NOW" — anchoring on NL-specific NVWA/ACM activity rather than speculative EU-wide trends.
+**Hypothesis:** The value prop doesn't depend on new regulations. It depends on enforcement of EXISTING regulations, which is actively happening in NL.
+**Evidence found:**
+- NVWA issues 6,600+ enforcement measures/year (18/day). Dual-regulator (NVWA + ACM) posture is unusual in EU.
+- NVWA fines up to €1.03M per violation, theoretical cap €5.15M per inspection.
+- ACM food-sector sweep April 2025 with €900K fines.
+- Existing Regulation 1924/2006 has 4,637 evaluated claims, 2,078 on hold, unsettled nutrient profiles — already complex enough.
+- "Don't get fined" is a stronger sales message than "regulation is expanding" — concrete, falsifiable, tied to identifiable enforcement actions.
+**Result:** A2 recovered 7→8. All criteria now at 8+.
+**Remaining gaps:** No criterion below 8. Score plateau at 85/100. Further improvement requires real-world validation (customer interviews, paid pilots, PoC accuracy publication).

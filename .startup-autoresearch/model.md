@@ -24,7 +24,11 @@ Tiered pricing aligned to SKU count and service level:
 The tiered model ensures: (a) low-tier is pure SaaS with 80%+ gross margins, (b) mid-tier limits human cost to spot-checks, (c) enterprise-tier prices human review at sustainable rates. The free tier feeds the data flywheel.
 
 ## Go-to-Market Channel
-Founder network (Stijn's ex-Unilever/FMCG connections), industry associations (NPN, Food Supplements Europe), trade events (Vitafoods), LinkedIn outreach to regulatory affairs managers.
+1. **ECGT deadline-driven inbound:** Free "ECGT Compliance Checker" tool that tells brands if their current claims are at risk. Drives self-qualified inbound leads. (GDPR content marketing wave is the proven analogue.)
+2. **Regulatory consultant partnerships:** White-label or referral partnerships with 3-5 Dutch consultancies (EU Food Comply, The Regulatory Company, Ecomundo). Referral leads convert at 24.7% MQL-to-SQL.
+3. **Trade association co-marketing:** Sponsor NPN/FSE webinars on ECGT readiness for access to membership list without cold outreach.
+4. **Product-led growth:** Free tier (10 claims/month) serves as PLG engine. Median freemium-to-paid conversion: 9-12%.
+5. **Founder network:** Stijn's ex-Unilever/FMCG connections for warm introductions to first 5-10 design partners.
 
 ## Defensibility & Moat
 - **Proprietary claim adjudication dataset:** Every claim reviewed through ClaimPilot generates structured data (claim text → regulation match → verdict → expert override). This accumulates into a proprietary eval/training dataset that improves accuracy and cannot be replicated without equivalent customer volume.
