@@ -40,7 +40,7 @@ The tiered model ensures: (a) low-tier is pure SaaS with 80%+ gross margins, (b)
 ## Key Assumptions
 1. Claim verification is a significant, painful time sink for the target persona
 2. The pain is acute enough at €299-5,000/month (tiered) to justify a subscription at each company size
-3. LLM + regulatory database + human expert review can achieve >95% final accuracy with traceability (AI pre-screens at ~85-90%, expert catches remaining errors)
+3. Hybrid system (deterministic matching against authorized claims + semantic embeddings for paraphrases + LLM for condition-of-use logic and edge cases) + human expert review can achieve >95% final accuracy with traceability. Corpus includes ~270 Art.13.1 authorized + ~2,078 botanical on-hold + specialty claims. Deterministic layer catches exact matches; embeddings handle creative paraphrases; LLM evaluates conditions of use (dose, population, food matrix)
 4. Mid-market is underserved by existing enterprise tools and consultancies
 5. The team can build trust with risk-averse regulatory professionals
 6. Regulatory expansion (Green Claims Directive) will increase demand

@@ -196,3 +196,19 @@
 - "Don't get fined" is a stronger sales message than "regulation is expanding" — concrete, falsifiable, tied to identifiable enforcement actions.
 **Result:** A2 recovered 7→8. All criteria now at 8+.
 **Remaining gaps:** No criterion below 8. Score plateau at 85/100. Further improvement requires real-world validation (customer interviews, paid pilots, PoC accuracy publication).
+
+## Cycle 16 — mixed (mutation + stress test)
+
+**Score:** 85/100 (0, net neutral)
+**Scorecard:** A1=8, A2=8, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** strengthen_moat
+**Change:** Articulated hybrid architecture in assumption #3: deterministic matching + semantic embeddings + LLM for edge cases. Initially improved C1 to 9.
+**Hypothesis:** Making the technical architecture explicit (finite corpus → deterministic first, embeddings second, LLM only for edge cases) strengthens the accuracy claim.
+**Evidence found:** TF-IDF + fuzzy matching achieves 90-98% on small-database lookup. FAQ matching systems achieve 90%+ on hundreds of entries. Hybrid layering limits LLM error exposure.
+**Stress test (C1):** Four weaknesses identified:
+1. Corpus is larger than 270: ~2,078 botanical on-hold, Art.14, Art.13.5 claims expand scope to 4,637 evaluated
+2. Deterministic layer may catch <60% (not 80%+): real-world marketing claims are creative paraphrases, not regulatory text
+3. Condition-of-use logic is structured complexity (dose, population, food matrix) — not simple lookup
+4. False negative risk: wrongly flagging authorized claims costs brands valid marketing claims
+**Result:** C1 improved 8→9 (mutation), then dropped 9→8 (stress test). Net zero. The hybrid architecture is the right approach but the initial "80%+ deterministic" claim was overconfident.
+**Remaining gaps:** C1 needs PoC eval publication. All criteria at 8+. Score plateau at 85/100.
