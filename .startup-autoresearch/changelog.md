@@ -325,3 +325,73 @@
 **Evidence found:** NVWA Jaarbeeld 2024 (7,458 fines, 1,233 enforcement measures). CJEU Case C-386/23 invalidated botanical claims. Amazon EU requires NSF/UL/Eurofins verification. Bol.com delists non-compliant supplements. NPN offers compliance workshops to 104 members.
 **Result:** D1 recovered 7→8. E2 recovered 7→8. The business case no longer depends on ECGT at all. Model.md problem statement, ICP, and GTM all updated.
 **Remaining gaps:** All criteria at 8+. Score 86/100. TAM is small (30-70 brands) and every customer requires founder-led sales. Real-world validation still needed.
+
+## Cycle 24 — keep (C1 updated, no score change)
+
+**Score:** 86/100 (0)
+**Scorecard:** A1=9, A2=8, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** ride_catalyst
+**Change:** Updated C1 with Novel Nutriology ruling implication: botanical on-hold claims (2,078) now default to prohibited, reducing the ambiguity zone for claim matching. The matching landscape simplifies post-CJEU ruling.
+**Hypothesis:** Novel Nutriology ruling makes ClaimPilot's accuracy task easier by eliminating the largest source of regulatory ambiguity (botanical claims).
+**Result:** Positive evidence but insufficient for 8→9 without PoC eval results. Core weaknesses remain: paraphrase detection, condition-of-use logic, no published accuracy data. C1 holds at 8.
+**Remaining gaps:** C1 needs PoC eval. Six criteria at 8, four at 9. Desk research ceiling firmly established.
+
+## Cycle 25 — keep (A2 improved)
+
+**Score:** 87/100 (+1)
+**Scorecard:** A1=9, A2=9, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** ride_catalyst
+**Change:** A2 improved 8→9 based on Novel Nutriology ruling (CJEU C-386/23, April 2025) killing botanical on-hold loophole + marketplace gating (Amazon/Bol.com) + NVWA broadening enforcement to influencers. Problem is now growing on three simultaneous fronts.
+
+## Cycle 26 — keep (pricing adjustment)
+
+**Score:** 87/100 (0)
+**Scorecard:** A1=9, A2=9, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** adjust_economics
+**Change:** Starter price lowered €299→€199/mo to compete directly with one-time consultant reviews (€2-4K). Free tier replaced with 14-day trial (compliance buyers need trust, not freemium). D2 holds at 8 — pricing alone doesn't push to 9 without customer validation of willingness to pay.
+
+## Cycles 27-28 — keep (stress test confirmations)
+
+**Score:** 87/100 (0)
+**Scorecard:** A1=9, A2=9, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+Stress-tested C2 (wedge delivers standalone value without ECGT dependency) and B1/B2 (competitive gap holds — FoodChainID still formulation-first, Apex still US-only, Rubicon Bridge is closest EU competitor but also formulation-first). All hold at current scores.
+
+## Cycles 29-30 — discard (desk research ceiling)
+
+**Score:** 87/100 (0)
+**Scorecard:** A1=9, A2=9, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+Attempted further improvements to E1 and D2 but hit desk research ceiling. Five criteria at 9 (A1, A2, B1, B2, C2) represent the maximum achievable through desk research. Five criteria at 8 (C1, D1, D2, E1, E2) all require real-world validation to improve:
+- **C1:** Needs published PoC accuracy eval
+- **D1:** Needs first 5 customers proving GTM works
+- **D2:** Needs customer validation of willingness to pay
+- **E1:** Needs paying customers generating data flywheel
+- **E2:** Needs market response to Novel Nutriology ruling
+
+## Final Assessment — Cycle 30
+
+**Final Score: 87/100**
+**Score trajectory:** 68→73→78→73→82→85→85→86→87→88→87→88→83→80→83→85→85→85→87→87→85→86→84→86→86→87→87→87→87→87→87
+
+**What desk research proved:**
+- The problem is real, growing, and painful (A1=9, A2=9)
+- The competitive gap is genuine and validated by exhaustive analysis (B1=9, B2=9)
+- The wedge delivers standalone value with compliant alternatives (C2=9)
+- The business model is viable with honest (non-ECGT) demand drivers
+
+**What desk research CANNOT prove (needs real-world validation):**
+- PoC accuracy on real customer data (C1)
+- GTM effectiveness in a 30-70 brand TAM (D1)
+- Willingness to pay at €199-799/mo (D2)
+- Speed-to-revenue advantage translating to actual moat (E1)
+- Market urgency response to Novel Nutriology ruling (E2)
+
+**Key model mutations that survived stress tests:**
+1. AI-assisted (not AI-decided) — human expert validation is core value prop
+2. Tiered pricing (Trial/€199/€799/€2-5K) — adjusted from original flat pricing
+3. Speed-to-revenue moat — technology isn't the moat, first-to-customers in vertical is
+4. Novel Nutriology + NVWA enforcement — replaced ECGT as timing catalyst
+5. Compliant alternatives suggestion — closes the job-to-be-done
+6. Honest TAM: 30-70 brands at target scale (not 80-150)
+7. Founder-led ABM + enforcement-driven outreach (not consultant partnerships)
+
+**Recommendation:** Stop desk researching. Start selling. The five criteria at 8 can ONLY improve through customer conversations, pilot engagements, and PoC accuracy publication.

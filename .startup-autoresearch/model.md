@@ -16,12 +16,12 @@ Wedge: pre-screening nutrition and health claims for supplement/functional food 
 
 ## Pricing Model
 Tiered pricing aligned to SKU count and service level:
-- **Free tier:** Up to 10 claims/month, AI pre-screening only, no expert review. Data acquisition strategy — every free claim improves the model.
-- **Starter (€299/mo):** Up to 50 SKUs. AI pre-screening with regulatory traceability. Self-serve dashboard. No human review included.
+- **Trial:** 14-day free trial with expert guidance. Converts through demonstrated accuracy. No perpetual free tier — compliance buyers need trust, not freemium.
+- **Starter (€199/mo):** Up to 50 SKUs. AI pre-screening with regulatory traceability. Self-serve dashboard. No human review included. At €2,388/yr, competes with one-time consultant review (€2-4K) while providing ongoing monitoring.
 - **Professional (€799/mo):** Up to 200 SKUs. AI pre-screening + expert spot-check (10% sample review of flagged claims). Monthly compliance summary report.
 - **Enterprise (€2,000-5,000/mo):** 200-500+ SKUs. Full AI + expert validation on all flagged claims. Dedicated regulatory advisor. Custom SLA. Quarterly compliance audit.
 
-The tiered model ensures: (a) low-tier is pure SaaS with 80%+ gross margins, (b) mid-tier limits human cost to spot-checks, (c) enterprise-tier prices human review at sustainable rates. The free tier feeds the data flywheel. Value proposition anchored on time savings (primary) + fine avoidance (secondary): regulatory manager time savings of 5-25 hrs/mo are deterministic; NVWA 55% non-compliance rate and indirect costs (€15-50K per enforcement action for relabeling, legal, inventory write-off) provide additional risk-avoidance value.
+The tiered model ensures: (a) low-tier is pure SaaS with 80%+ gross margins, (b) mid-tier limits human cost to spot-checks, (c) enterprise-tier prices human review at sustainable rates. Starter at €199/mo competes directly with one-time consultant reviews while providing ongoing regulatory monitoring. Value proposition anchored on time savings (primary) + fine avoidance (secondary).
 
 ## Go-to-Market Channel
 *Note: ECGT (EU 2024/825) covers sustainability claims, not health claims (EC 1924/2006). GTM revised to reflect this.*
