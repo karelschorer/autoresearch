@@ -296,3 +296,19 @@
 - Data flywheel at 50-200 customers for domain-specific compliance
 **Result:** E1 recovered 7→8. The speed-to-revenue thesis is honest and addresses every Cycle 20 criticism. The moat isn't technology — it's getting to paying customers first in a vertical that rewards the leader.
 **Remaining gaps:** All criteria at 8+. E1 needs first paying customer to reach 9. ECGT conflation partially addressed (sustainability vs health claims).
+
+## Cycle 22 — stress_test (D1 and E2 dropped — ECGT conflation is systemic)
+
+**Score:** 84/100 (-2)
+**Scorecard:** A1=9, A2=8, B1=9, B2=9, C1=8, C2=9, D1=7, D2=8, E1=8, E2=7
+**Mutation operator:** none (pure stress test of D1 GTM channels)
+**Stress test (D1) — five channels challenged:**
+1. **ECGT inbound is fatally flawed** — ECGT covers sustainability claims (EU 2024/825), NOT health claims (EC 1924/2006). No deadline-driven urgency exists for health claims compliance. The primary inbound mechanism was built on a regulatory mismatch.
+2. **Consultant partnerships face revenue cannibalization** — ClaimPilot automates the core deliverable of Dutch consultancies. 24.7% referral conversion is borrowed from different industry context.
+3. **NPN has no SaaS vendor membership category** — trade body access is speculative. NPN is a tight, relationship-driven body that doesn't endorse specific vendors.
+4. **PLG free tier contradicts compliance trust** — no compliance SaaS uses freemium. Free = untrustworthy for €150K fine risk.
+5. **TAM likely 30-70 brands** at 50-300 SKU scale, not 80-150. Many NPN members are suppliers/distributors, not brands.
+**Cascade effect on E2:** ECGT timing catalyst was a key pillar of E2. With ECGT applying to sustainability claims (not health claims), the timing case for health claims tools is weaker. NVWA enforcement is still real but continuous, not deadline-driven. E2 also drops 8→7.
+**Model changes:** Revised GTM to NVWA enforcement-driven content marketing, founder network (primary), direct outreach to non-compliant brands, product-led trial (not freemium), trade event presence. Fixed ICP TAM to 30-70 brands.
+**Result:** D1 dropped 8→7. E2 dropped 8→7. The ECGT conflation was systemic — it affected GTM, timing, and ICP framing. Model.md updated extensively.
+**Remaining gaps:** D1 (7) and E2 (7) are the weakest criteria. Need mutations to recover them based on honest (non-ECGT) demand drivers.

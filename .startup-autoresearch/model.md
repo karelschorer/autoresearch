@@ -1,10 +1,10 @@
 # ClaimPilot — Business Model Canvas
 
 ## Problem Statement
-41-89% of EU supplement products carry non-compliant health claims. Getting claims wrong is not a tail risk — it is the default state. Consequences are severe: £100K+ per product line in remediation costs, fines up to €150K (NVWA) or 4% of EU turnover (ECGT), packaging delays of 4-8 weeks, and brand damage. The manual process of cross-referencing claims against the EU Register, EFSA opinions, and conditions of use is repetitive expert labor that scales linearly with SKU count — and the regulatory burden is actively expanding (ECGT Sept 2026, PPWR Aug 2026, botanical claim resolution pending).
+41-89% of EU supplement products carry non-compliant health claims. Getting claims wrong is not a tail risk — it is the default state. Consequences are severe: £100K+ per product line in remediation costs, fines up to €150K (NVWA) or 4% of EU turnover (ECGT), packaging delays of 4-8 weeks, and brand damage. The manual process of cross-referencing claims against the EU Register, EFSA opinions, and conditions of use is repetitive expert labor that scales linearly with SKU count — and NVWA enforcement is actively intensifying (6,600+ enforcement measures/year, 55% non-compliance rate, fines up to €1.03M). ECGT Sept 2026 adds sustainability claim requirements as a secondary wedge.
 
 ## Target Customer (ICP)
-**Beachhead:** Dutch supplement brands with 50-300 SKUs, 1-3 regulatory affairs staff, actively preparing for ECGT enforcement (September 27, 2026). Estimated 80-150 brands in this segment, reachable through NPN membership and Stijn's FMCG network.
+**Beachhead:** Dutch supplement brands with 50-300 SKUs, 1-3 regulatory affairs staff, under active NVWA enforcement pressure. Estimated 30-70 brands at this scale in NL, reachable through founder network, NVWA enforcement-driven outreach, and trade events.
 **Expand-to:** Mid-size FMCG companies across EU (Germany, France, UK) with 50-500 SKUs. Supplement brands first, then functional foods, then broader FMCG.
 
 ## Proposed Solution & Wedge
@@ -24,11 +24,12 @@ Tiered pricing aligned to SKU count and service level:
 The tiered model ensures: (a) low-tier is pure SaaS with 80%+ gross margins, (b) mid-tier limits human cost to spot-checks, (c) enterprise-tier prices human review at sustainable rates. The free tier feeds the data flywheel. Value proposition anchored on time savings (primary) + fine avoidance (secondary): regulatory manager time savings of 5-25 hrs/mo are deterministic; NVWA 55% non-compliance rate and indirect costs (€15-50K per enforcement action for relabeling, legal, inventory write-off) provide additional risk-avoidance value.
 
 ## Go-to-Market Channel
-1. **ECGT deadline-driven inbound:** Free "ECGT Compliance Checker" tool that tells brands if their current claims are at risk. Drives self-qualified inbound leads. (GDPR content marketing wave is the proven analogue.)
-2. **Regulatory consultant partnerships:** White-label or referral partnerships with 3-5 Dutch consultancies (EU Food Comply, The Regulatory Company, Ecomundo). Referral leads convert at 24.7% MQL-to-SQL.
-3. **Trade association co-marketing:** Sponsor NPN/FSE webinars on ECGT readiness for access to membership list without cold outreach.
-4. **Product-led growth:** Free tier (10 claims/month) serves as PLG engine. Median freemium-to-paid conversion: 9-12%.
-5. **Founder network:** Stijn's ex-Unilever/FMCG connections for warm introductions to first 5-10 design partners.
+*Note: ECGT (EU 2024/825) covers sustainability claims, not health claims (EC 1924/2006). GTM revised to reflect this.*
+1. **NVWA enforcement-driven content marketing:** "Is your supplement label NVWA-compliant?" free audit tool targeting brands in categories where NVWA has recently fined competitors (collagen, weight-loss, botanicals). Urgency from ongoing enforcement, not a deadline.
+2. **Founder network (primary channel):** Stijn's ex-Unilever/FMCG connections for warm introductions to first 5-10 design partners. This is the fastest path to first revenue.
+3. **Direct outreach to non-compliant brands:** NVWA publishes enforcement actions. Brands found non-compliant in sweeps are self-qualified leads with acute pain.
+4. **Product-led trial:** Time-limited free trial with expert guidance (not a perpetual free tier — compliance SaaS requires trust, not freemium). Convert through demonstrated accuracy.
+5. **Trade event presence:** Vitafoods, NPN events as awareness channels (not co-marketing partnerships — NPN doesn't endorse vendors).
 
 ## Defensibility & Moat
 *Note: Technology (NLP over public corpus) is NOT the moat — it's standard engineering. The moat builds from speed-to-revenue in a winner-take-most vertical market.*
