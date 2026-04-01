@@ -10,7 +10,13 @@ Mid-size FMCG companies in the Netherlands and EU with 50-500 SKUs, 1-3 regulato
 AI-assisted regulatory compliance platform using Claude Opus to pre-screen marketing claims against the EU Register, EFSA opinions, and conditions of use. The AI generates a draft verdict with regulatory traceability; a human regulatory expert reviews and validates before delivery. This "AI pre-screen + expert validation" model reduces review time by 60-80% while maintaining the human accountability that regulatory professionals require. Wedge: pre-screening nutrition and health claims for supplement/functional food packaging.
 
 ## Pricing Model
-€300-500/month SaaS subscription. Positioned as managed regulatory intelligence service (includes internal expert shadow review), not pure self-serve SaaS. Free-tier-for-data acquisition strategy planned.
+Tiered pricing aligned to SKU count and service level:
+- **Free tier:** Up to 10 claims/month, AI pre-screening only, no expert review. Data acquisition strategy — every free claim improves the model.
+- **Starter (€299/mo):** Up to 50 SKUs. AI pre-screening with regulatory traceability. Self-serve dashboard. No human review included.
+- **Professional (€799/mo):** Up to 200 SKUs. AI pre-screening + expert spot-check (10% sample review of flagged claims). Monthly compliance summary report.
+- **Enterprise (€2,000-5,000/mo):** 200-500+ SKUs. Full AI + expert validation on all flagged claims. Dedicated regulatory advisor. Custom SLA. Quarterly compliance audit.
+
+The tiered model ensures: (a) low-tier is pure SaaS with 80%+ gross margins, (b) mid-tier limits human cost to spot-checks, (c) enterprise-tier prices human review at sustainable rates. The free tier feeds the data flywheel.
 
 ## Go-to-Market Channel
 Founder network (Stijn's ex-Unilever/FMCG connections), industry associations (NPN, Food Supplements Europe), trade events (Vitafoods), LinkedIn outreach to regulatory affairs managers.
@@ -24,7 +30,7 @@ Founder network (Stijn's ex-Unilever/FMCG connections), industry associations (N
 
 ## Key Assumptions
 1. Claim verification is a significant, painful time sink for the target persona
-2. The pain is acute enough at €300-500/month to justify a subscription
+2. The pain is acute enough at €299-5,000/month (tiered) to justify a subscription at each company size
 3. LLM + regulatory database + human expert review can achieve >95% final accuracy with traceability (AI pre-screens at ~85-90%, expert catches remaining errors)
 4. Mid-market is underserved by existing enterprise tools and consultancies
 5. The team can build trust with risk-averse regulatory professionals
