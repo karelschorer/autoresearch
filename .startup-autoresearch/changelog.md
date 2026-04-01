@@ -246,3 +246,19 @@
 5. Weekly hours too high? PARTIALLY — 15-30% is peak-state, steady-state probably 5-8 hrs/week
 **Result:** A1 improved 8→9 and held through stress test. First net-positive cycle since Cycle 15.
 **Remaining gaps:** FoodChainID differentiation needs to be addressed in B1/B2. A1 needs customer interview to reach 10.
+
+## Cycle 19 — keep (competitive analysis strengthened B1/B2)
+
+**Score:** 87/100 (0)
+**Scorecard:** A1=9, A2=8, B1=9, B2=9, C1=8, C2=9, D1=8, D2=8, E1=8, E2=8
+**Mutation operator:** strengthen_moat
+**Change:** Deep competitive analysis of FoodChainID, Apex Compliance, Trustwell/AskReg, SGS DigiComply, Rubicon Bridge. Updated B1/B2 evidence with exhaustive competitive mapping.
+**Hypothesis:** The Cycle 18 stress test flagged FoodChainID as a more direct competitor. Needed to investigate whether B1/B2 scores (9) were overconfident.
+**Evidence found:**
+- FoodChainID is **formulation-in, claims-out** — does NOT analyze marketing copy. Works opposite direction from ClaimPilot.
+- Apex Compliance is the closest to claim-text analysis but is **US-only** (FDA/FTC) and **keyword-based** (not semantic NLP).
+- **FoodChainID + Apex partnership** is the strongest signal: market leader had to partner with separate tool for marketing content, and even that partner is US-only.
+- Trustwell/AskReg is a Q&A chatbot, not a document scanner. SGS DigiComply is enterprise-only label artwork validation. Rubicon Bridge is formulation-first.
+- **NO existing tool** does AI-powered EU claim-text pre-screening with semantic analysis of paraphrased claims.
+**Stress test result:** The competitive analysis turned into a validation. B1/B2 scores hold at 9. The gap is stronger than previously documented.
+**Remaining gaps:** A2=8, C1=8, D1=8, D2=8, E1=8, E2=8 — six criteria at 8, need mutations to push to 9.
