@@ -46,3 +46,14 @@
 - **E1 CONFIRMED:** Niche genuinely unoccupied. No funded startup targets EU food claim pre-screening specifically. FoodChain ID and Trustwell/AskReg are adjacent but not direct. Real risk is feature-add by existing player, not new entrant.
 **Result:** D2 dropped 8→5. E1 held at 6.
 **Remaining gaps:** D2 pricing model needs restructuring (primary). E1 moat needs conversion from pathway to asset (secondary). C1 needs PoC accuracy data (tertiary).
+
+## Cycle 4 — keep
+
+**Score:** 82/100 (+9)
+**Scorecard:** A1=7, A2=9, B1=8, B2=9, C1=7, C2=9, D1=10, D2=8, E1=6, E2=9
+**Mutation operator:** adjust_economics
+**Change:** Replaced flat €300-500/month with tiered pricing: Free (10 claims/mo, data acquisition), Starter €299/mo (50 SKUs, AI only), Professional €799/mo (200 SKUs, AI + 10% spot-check), Enterprise €2,000-5,000/mo (200-500+ SKUs, full expert validation)
+**Hypothesis:** The flat pricing broke because it bundled human expert review at a price that couldn't cover the cost. Tiering separates AI-only (high margin) from managed service (appropriately priced).
+**Evidence found:** Professional tier math: 28 spot-check claims × 10 min = 5 hrs × €50/hr = €250 cost on €799 revenue = 69% gross margin. Comparable tools (VComply $1K/mo, Regology $1.25K/user/mo) validate price range. Freemium conversion in compliance SaaS is 5-8%. Enterprise pricing of €2-5K/mo is in-market for managed compliance.
+**Result:** D2 recovered 5→8. Total improved 73→82.
+**Remaining gaps:** E1 (6/10) — moat is pathway not asset. C1 (7/10) — needs PoC accuracy data. A1 (7/10) — needs direct survey evidence on time spent.
