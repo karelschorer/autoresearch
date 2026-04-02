@@ -39,3 +39,10 @@ Baseline model from startup ideation phase. Key strengths: team fit (E1:9), timi
 **Research:** MiCA imposes multiple RECURRING obligations on CASPs: continuous record-keeping (Art.68, RTS 2025/1140), complaints handling (Art.71, RTS 2025/294), quarterly NCA reporting, annual compliance audits, governance change reporting, and business continuity (DORA). Level 2 measures still being published — complexity growing.
 **C2 recovered 5→7:** The recurring obligations create genuine SaaS-worthy workflows. A "MiCA compliance dashboard" that automates reporting deadlines, manages complaint records, tracks regulatory changes, and prepares NCA submissions has recurring value. Mid-market CASPs (1-3 compliance staff) can't manage this with spreadsheets alone as obligations compound.
 **Remaining gap:** The operations wedge is broad. Need to narrow to ONE launch feature (NCA reporting or complaints handling) before building the full platform. Still unvalidated with real users.
+
+## Cycle 5 — D2 unit economics validation + adjust_economics
+**Score: 74/100** (+1)
+**Scorecard:** A1:8 A2:8 B1:5 B2:6 C1:8 C2:7 D1:7 **D2:8↑** E1:9 E2:8
+**Mutation:** adjust_economics — strengthened pricing justification with compliance cost data
+**Research:** 35% of blockchain startups estimate >$500K/yr MiCA compliance costs. 73% investing in compliance tech (willingness-to-pay signal). EUR 540M+ in fines issued. Per-violation penalties EUR 50K-5M. Mid-market CASP spending EUR 50-200K on compliance; MiCAGuard at EUR 12K/yr = 2.4-24% of budget. Even 10% time savings = 2-4x ROI.
+**D2 moved 7→8:** Economics are defensible. The pricing tiers (EUR 299/999/3-5K) align well with the compliance budget spectrum. 73% investing in compliance tech validates willingness-to-pay. Fine avoidance provides secondary ROI. Not a 9 because mid-market CASPs at the low end may find EUR 999/mo steep relative to their total compliance budget.
