@@ -71,3 +71,11 @@ Baseline model from startup ideation phase. Key strengths: team fit (E1:9), timi
 **Wedge narrowed again:** From broad "compliance operations platform" to specific **"MiCA regulatory change tracking + impact assessment."** ESMA publishes 30+ standards, each affecting different CASP types differently. This is high-frequency, recurring, critical, and no crypto-specific tool exists for it.
 **B1 recovered 5→6:** Gap validated in integrated MiCA operational compliance. Not a 7 because horizontal compliance platforms could expand to cover this.
 **B2 moved 6→7:** The multi-regulation coordination gap (MiCA + DORA + CARF + AML with NCA-specific requirements) is specific, articulable, and not served by any existing tool.
+
+## Cycle 9 — C1 stress test
+**Score: 75/100** (-1)
+**Scorecard:** A1:8 A2:8 B1:6 B2:7 **C1:7↓** C2:7 D1:7 D2:8 E1:8 E2:9
+**Stress test question:** "Can an LLM reliably interpret MiCA regulatory changes?"
+**Findings:** Stanford research shows 17% error rate for Lexis+ AI, 34% for Westlaw AI. 700+ court cases involve AI hallucinations. EU AI Act classifies financial regulation AI as high-risk — requires conformity assessment, human oversight, audit trail. Regulatory interpretation requires judgment beyond retrieval.
+**Mitigation:** Hybrid architecture (deterministic matching for structured data + LLM for classification/impact assessment + mandatory human review). The regulatory change tracking wedge is more structured than full legal interpretation — "what changed, who's affected, what's the deadline" is more classifiable than "is this marketing claim compliant."
+**C1 dropped 8→7:** The technology works but the accuracy bar is high and human oversight is mandatory. Must be "AI drafts, human validates" not "AI decides." Still valuable (80% time savings) but limits pure-SaaS scalability.
