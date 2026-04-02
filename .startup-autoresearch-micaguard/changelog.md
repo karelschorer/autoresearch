@@ -54,3 +54,11 @@ Baseline model from startup ideation phase. Key strengths: team fit (E1:9), timi
 **Stress test question:** "Is MiCA a one-time compliance wave that peaks and fades?"
 **Answer: NO.** MiCA is the FIRST layer. CARF/DAC8 (Jan 2026), PSD2 interplay (March 2026), AMLA (2026-2027), and AMLR (July 2027) each add new compliance obligations. ESMA has published 30+ technical standards with more coming. Key deadlines run through Dec 2027. The compliance burden is GROWING, not stabilizing.
 **E2 moved 8→9:** Timing is genuinely strong and sustained. Multiple converging regulatory timelines create compound urgency through 2027+. A compliance operations platform becomes MORE valuable as the regulatory stack deepens.
+
+## Cycle 7 — E1 stress test
+**Score: 74/100** (-1)
+**Scorecard:** A1:8 A2:8 B1:5 B2:6 C1:8 C2:7 D1:7 D2:8 **E1:8↓** E2:9
+**Stress test question:** "Is Jeroen's crypto network really a defensible advantage?"
+**Findings:** (1) Jeroen's Kraken connection covers ~5-10 warm intros, not the full 150+ CASP landscape. (2) AI/LLM capability is table-stakes in 2026, not a moat. (3) Neither founder has compliance domain expertise — competing against Sedric (500+ FIs) and Big Four (decades of credibility). (4) Kraken knowledge doesn't transfer to stablecoin issuers, token projects, or custodians.
+**What survived:** Speed (two builders ship in weeks), insider perspective (crypto culture understanding), bootstrap execution (no fundraising delay), enough warm intros for first design partners.
+**E1 dropped 9→8:** Genuine advantage in speed + insider perspective, but narrower network and missing compliance domain expertise prevent 9.
