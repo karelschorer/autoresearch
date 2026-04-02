@@ -46,3 +46,11 @@ Baseline model from startup ideation phase. Key strengths: team fit (E1:9), timi
 **Mutation:** adjust_economics — strengthened pricing justification with compliance cost data
 **Research:** 35% of blockchain startups estimate >$500K/yr MiCA compliance costs. 73% investing in compliance tech (willingness-to-pay signal). EUR 540M+ in fines issued. Per-violation penalties EUR 50K-5M. Mid-market CASP spending EUR 50-200K on compliance; MiCAGuard at EUR 12K/yr = 2.4-24% of budget. Even 10% time savings = 2-4x ROI.
 **D2 moved 7→8:** Economics are defensible. The pricing tiers (EUR 299/999/3-5K) align well with the compliance budget spectrum. 73% investing in compliance tech validates willingness-to-pay. Fine avoidance provides secondary ROI. Not a 9 because mid-market CASPs at the low end may find EUR 999/mo steep relative to their total compliance budget.
+
+## Cycle 6 — E2 stress test (survived) + ride_catalyst
+**Score: 75/100** (+1)
+**Scorecard:** A1:8 A2:8 B1:5 B2:6 C1:8 C2:7 D1:7 D2:8 E1:9 **E2:9↑**
+**Mutation:** ride_catalyst — expanded timing thesis beyond MiCA to include CARF, PSD2, AMLA, AMLR
+**Stress test question:** "Is MiCA a one-time compliance wave that peaks and fades?"
+**Answer: NO.** MiCA is the FIRST layer. CARF/DAC8 (Jan 2026), PSD2 interplay (March 2026), AMLA (2026-2027), and AMLR (July 2027) each add new compliance obligations. ESMA has published 30+ technical standards with more coming. Key deadlines run through Dec 2027. The compliance burden is GROWING, not stabilizing.
+**E2 moved 8→9:** Timing is genuinely strong and sustained. Multiple converging regulatory timelines create compound urgency through 2027+. A compliance operations platform becomes MORE valuable as the regulatory stack deepens.
