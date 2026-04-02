@@ -79,3 +79,51 @@ Baseline model from startup ideation phase. Key strengths: team fit (E1:9), timi
 **Findings:** Stanford research shows 17% error rate for Lexis+ AI, 34% for Westlaw AI. 700+ court cases involve AI hallucinations. EU AI Act classifies financial regulation AI as high-risk — requires conformity assessment, human oversight, audit trail. Regulatory interpretation requires judgment beyond retrieval.
 **Mitigation:** Hybrid architecture (deterministic matching for structured data + LLM for classification/impact assessment + mandatory human review). The regulatory change tracking wedge is more structured than full legal interpretation — "what changed, who's affected, what's the deadline" is more classifiable than "is this marketing claim compliant."
 **C1 dropped 8→7:** The technology works but the accuracy bar is high and human oversight is mandatory. Must be "AI drafts, human validates" not "AI decides." Still valuable (80% time savings) but limits pure-SaaS scalability.
+
+## Cycle 10 — A1 stress test (survived + strengthened)
+**Score: 76/100** (+1)
+**Scorecard:** **A1:9↑** A2:8 B1:6 B2:7 C1:7 C2:7 D1:7 D2:8 E1:8 E2:9
+**Stress test question:** "Is the compliance pain really acute for mid-market CASPs?"
+**Answer: YES, and it's existential.** 40%+ of exchanges struggle with reporting. 75% revamped compliance teams. 25% plan EU exit. 18%+ already shut down. Personal liability for management. Dual licensing may double costs. EUR 5-15K/month ongoing. The pain is not theoretical — it's driving 95% market consolidation (3,100 VASPs → 180 CASPs).
+**A1 moved 8→9:** The pain is documented, quantified, and existential. Not a 10 because some firms may hire staff rather than buy SaaS, and some exit EU entirely (reducing TAM).
+
+## Cycle 11 — A2 validated + ride_catalyst
+**Score: 77/100** (+1)
+**Scorecard:** A1:9 **A2:9↑** B1:6 B2:7 C1:7 C2:7 D1:7 D2:8 E1:8 E2:9
+**A2 moved 8→9:** Regulatory expansion is structural and multi-year. MiCA L2/3 still rolling out. CARF, AMLA, AMLR, PSD2 interplay compound through 2027. MiCA II expected (Commission report June 2027). Enforcement escalating (EUR 540M+ fines, 50+ revocations).
+
+## Cycle 12 — D1 stress test (held at 7)
+**Score: 77/100** (unchanged)
+Of 150-180 authorized CASPs, estimated 100-130 are mid-market after filtering out ~20-30 large exchanges with in-house teams and ~30-50 micro-firms (<5 employees). Clears >=100 threshold but remains niche. Not all CASP types need the same tool.
+
+## Cycle 13 — C2 stress test (held at 7)
+**Score: 77/100** (unchanged)
+Regulatory change tracking wedge is recurring, specific, and critical. But "compliance operations platform" risks being too broad for launch. Need to ship narrow (change tracking only) then expand. The wedge works but isn't as clean as ClaimPilot's "paste a claim, get a verdict."
+
+## Cycle 14 — B1 stress test (held at 6)
+**Score: 77/100** (unchanged)
+Horizontal compliance platforms (ComplyAdvantage, Alloy, Sedric) could expand into MiCA-specific operations. The MiCA focus is a differentiation today but may not be defensible long-term. B1 ceiling at 6 without paying customers proving the gap.
+
+## Cycle 15 — Plateau confirmed
+**Score: 77/100** (unchanged for 5 cycles)
+All desk-researchable improvements exhausted. Four criteria at 9 (A1, A2, D2/E2). Five at 7 (B2, C1, C2, D1, E1/D2 at 8). One at 6 (B1). The 6 on B1 (competitive pressure) is the persistent weakness — it can only improve through real-world competitive differentiation (building the product, signing customers).
+
+## Final Assessment
+
+**Score: 77/100** — Solid desk research foundation. The idea is viable but faces a persistent competitive tension.
+
+### What's validated:
+- **Problem is real and growing** (A1:9, A2:9) — existential compliance burden, multi-year regulatory expansion
+- **Timing is excellent** (E2:9) — MiCA + CARF + AMLA + AMLR create sustained demand through 2027+
+- **Economics work** (D2:8) — 73% investing in compliance tech, EUR 5-15K/month ongoing costs
+- **Team has real advantage** (E1:8) — speed, insider perspective, enough network for first customers
+- **Market exists** (D1:7) — 150-180 CASPs, 100-130 mid-market, clears threshold
+
+### What needs real-world validation:
+- **Competitive gap** (B1:6) — Does the integrated MiCA operations gap hold vs. horizontal platforms?
+- **Technology accuracy** (C1:7) — Can hybrid AI+human approach achieve required accuracy?
+- **Wedge frequency** (C2:7) — Is regulatory change tracking alone enough for monthly SaaS?
+- **Gap specificity** (B2:7) — Which specific workflow is the most painful and underserved?
+
+### Recommendation: Stop desk researching. Start selling.
+The idea is viable. The biggest risk isn't the market or timing — it's competitive defense (B1:6). That can only be resolved by building the product, signing 5-10 design partners, and proving that MiCA-specific tooling provides value that horizontal platforms don't. Talk to 10 compliance officers at MiCA-licensed CASPs this month.

@@ -1,0 +1,17 @@
+cycle	total	max	A1	A2	B1	B2	C1	C2	D1	D2	E1	E2	status	mutation	detail
+0	72	100	8	8	6	6	8	7	5	7	9	8	baseline	none	initial model from ideation phase scoring
+1	74	100	8	8	6	6	8	7	7	7	9	8	keep	narrow_icp	D1 5→7: 102 CASPs authorized (Dec 2025), 150-180 expected by mid-2026. TAM clears >=100 threshold.
+2	72	100	8	8	5	6	8	6	7	7	9	8	mixed	shift_wedge	B1 6→5: Sedric AI already does MiCA marketing compliance. Shifted wedge to disclosure generation. C2 7→6: new wedge unvalidated.
+3	71	100	8	8	5	6	8	5	7	7	9	8	mixed	shift_wedge	C2 6→5: White paper generation is one-time deliverable, poor SaaS fit. Shifted wedge to ongoing compliance operations platform.
+4	73	100	8	8	5	6	8	7	7	7	9	8	keep	reposition_value	C2 5→7: Recurring MiCA obligations validated (record-keeping, complaints, NCA reporting, annual audits). Operations wedge has SaaS potential.
+5	74	100	8	8	5	6	8	7	7	8	9	8	keep	adjust_economics	D2 7→8: 35% of startups estimate >$500K/yr compliance cost. 73% investing in compliance tech. EUR 999/mo is 2-6% of compliance budget.
+6	75	100	8	8	5	6	8	7	7	8	9	9	keep	ride_catalyst	E2 8→9: MiCA NOT one-time wave. CARF/DAC8, PSD2 interplay, AMLA, AMLR layer through 2027. 30+ ESMA standards still rolling out.
+7	74	100	8	8	5	6	8	7	7	8	8	9	stress_test	none	E1 9→8: Stress test. Jeroen's network is 5-10 intros not full CASP landscape. AI capability is table-stakes. No compliance domain expertise.
+8	76	100	8	8	6	7	8	7	7	8	8	9	keep	strengthen_moat	B1 5→6, B2 6→7: Validated gap in integrated MiCA ops (NCA reporting + change tracking + multi-reg coordination). Narrowed wedge to regulatory change tracking.
+9	75	100	8	8	6	7	7	7	7	8	8	9	stress_test	none	C1 8→7: Legal AI error rates 17-34% (Stanford). EU AI Act mandates human oversight. Must be hybrid AI+human, not pure AI.
+10	76	100	9	8	6	7	7	7	7	8	8	9	keep	reposition_value	A1 8→9: 40%+ struggle with reporting, 75% revamped teams, 25% plan EU exit. Pain is existential for mid-market CASPs.
+11	77	100	9	9	6	7	7	7	7	8	8	9	keep	ride_catalyst	A2 8→9: Regulatory expansion structural — MiCA L2/3 + CARF + AMLA + AMLR + MiCA II on horizon. Multi-year compound growth.
+12	77	100	9	9	6	7	7	7	7	8	8	9	stress_test	none	D1 stress test held at 7. Of 150-180 CASPs, ~100-130 are mid-market after filtering out large exchanges and micro-firms.
+13	77	100	9	9	6	7	7	7	7	8	8	9	stress_test	none	C2 stress test held at 7. Regulatory change tracking wedge is recurring and specific but broad platform risk remains.
+14	77	100	9	9	6	7	7	7	7	8	8	9	stress_test	none	B1 stress test held at 6. Horizontal compliance platforms (ComplyAdvantage, Alloy) could enter. B1 ceiling at 6 without paying customers.
+15	77	100	9	9	6	7	7	7	7	8	8	9	stress_test	none	Score plateau confirmed at 77/100. All desk-researchable improvements exhausted.
