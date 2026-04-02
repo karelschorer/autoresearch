@@ -12,7 +12,9 @@ AI compliance assistant that ingests MiCA regulation text, ESMA technical standa
 
 **Wedge: ongoing MiCA compliance operations platform.** CASPs face recurring compliance obligations: (1) periodic reporting to NCAs (transaction volumes, complaints, significant incidents), (2) regulatory change tracking as ESMA publishes new technical standards and guidance, (3) ongoing disclosure updates when material changes occur, (4) complaints handling and record-keeping per Article 71. No single tool integrates these recurring MiCA-specific operations. Current approach: spreadsheets + law firm retainers.
 
-*Note: Marketing compliance monitoring already served by Sedric AI. White paper generation is a one-time deliverable, poor SaaS fit. Wedge shifted to recurring compliance operations — the "MiCA operating system" for mid-market CASPs.*
+**Narrow launch wedge:** Automated MiCA regulatory change tracking + impact assessment. When ESMA publishes a new technical standard or guideline, MiCAGuard classifies it by CASP type and service, assesses impact on the customer's specific operations, and generates an action plan with deadlines. This is high-frequency (30+ ESMA standards published, more coming), recurring (ongoing), and critical (missing a change = compliance breach). Expand from there to NCA reporting automation, complaints management, and multi-regulation coordination (DORA, CARF, AML).
+
+*Note: Marketing compliance served by Sedric AI. White paper generation is one-time. Regulatory change tracking is the recurring, high-value wedge where no crypto-specific tool exists.*
 
 ## Pricing Model
 - Starter (EUR 299/mo): Marketing compliance scanning, basic regulatory Q&A

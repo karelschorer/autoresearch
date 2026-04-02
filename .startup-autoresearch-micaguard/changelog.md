@@ -62,3 +62,12 @@ Baseline model from startup ideation phase. Key strengths: team fit (E1:9), timi
 **Findings:** (1) Jeroen's Kraken connection covers ~5-10 warm intros, not the full 150+ CASP landscape. (2) AI/LLM capability is table-stakes in 2026, not a moat. (3) Neither founder has compliance domain expertise — competing against Sedric (500+ FIs) and Big Four (decades of credibility). (4) Kraken knowledge doesn't transfer to stablecoin issuers, token projects, or custodians.
 **What survived:** Speed (two builders ship in weeks), insider perspective (crypto culture understanding), bootstrap execution (no fundraising delay), enough warm intros for first design partners.
 **E1 dropped 9→8:** Genuine advantage in speed + insider perspective, but narrower network and missing compliance domain expertise prevent 9.
+
+## Cycle 8 — B1/B2 recovery + strengthen_moat
+**Score: 76/100** (+2)
+**Scorecard:** A1:8 A2:8 **B1:6↑** **B2:7↑** C1:8 C2:7 D1:7 D2:8 E1:8 E2:9
+**Mutation:** strengthen_moat — defined the competitive gap; narrowed wedge to regulatory change tracking
+**Research:** No single tool integrates MiCA + DORA + CARF + AML for mid-market CASPs. Existing tools cover specific layers (KYC, AML, travel rule, marketing) but not the operational coordination. CASPs spend EUR 5-15K/month on ongoing compliance. NCA fragmentation across jurisdictions adds complexity. Embedded compliance (controls in transaction flows) is the stated need.
+**Wedge narrowed again:** From broad "compliance operations platform" to specific **"MiCA regulatory change tracking + impact assessment."** ESMA publishes 30+ standards, each affecting different CASP types differently. This is high-frequency, recurring, critical, and no crypto-specific tool exists for it.
+**B1 recovered 5→6:** Gap validated in integrated MiCA operational compliance. Not a 7 because horizontal compliance platforms could expand to cover this.
+**B2 moved 6→7:** The multi-regulation coordination gap (MiCA + DORA + CARF + AML with NCA-specific requirements) is specific, articulable, and not served by any existing tool.
