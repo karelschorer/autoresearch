@@ -31,3 +31,11 @@ Baseline model from startup ideation phase. Key strengths: team fit (E1:9), timi
 **Wedge shift:** Moved from white paper generation (one-time) to ongoing compliance operations: periodic NCA reporting, regulatory change tracking, disclosure updates, complaints handling/record-keeping. These are RECURRING tasks that justify monthly subscription.
 **C2 dropped 6→5:** Second wedge shift in two cycles — not a good sign. The "ongoing MiCA operations" wedge is plausible but completely unvalidated. Need to research: what exactly are the recurring MiCA obligations? How much time do they take? Is this a real workflow pain?
 **Emerging concern:** We're now on the third wedge attempt. Marketing (occupied by Sedric), disclosures (one-time), ongoing operations (unvalidated). The product needs a clear, defensible entry point.
+
+## Cycle 4 — Recurring obligations validated + reposition_value
+**Score: 73/100** (+2)
+**Scorecard:** A1:8 A2:8 B1:5 B2:6 C1:8 **C2:7↑** D1:7 D2:7 E1:9 E2:8
+**Mutation:** reposition_value — repositioned from "compliance tool" to "MiCA operations platform"
+**Research:** MiCA imposes multiple RECURRING obligations on CASPs: continuous record-keeping (Art.68, RTS 2025/1140), complaints handling (Art.71, RTS 2025/294), quarterly NCA reporting, annual compliance audits, governance change reporting, and business continuity (DORA). Level 2 measures still being published — complexity growing.
+**C2 recovered 5→7:** The recurring obligations create genuine SaaS-worthy workflows. A "MiCA compliance dashboard" that automates reporting deadlines, manages complaint records, tracks regulatory changes, and prepares NCA submissions has recurring value. Mid-market CASPs (1-3 compliance staff) can't manage this with spreadsheets alone as obligations compound.
+**Remaining gap:** The operations wedge is broad. Need to narrow to ONE launch feature (NCA reporting or complaints handling) before building the full platform. Still unvalidated with real users.
