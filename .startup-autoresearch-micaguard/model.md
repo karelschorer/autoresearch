@@ -8,7 +8,11 @@ MiCA (Markets in Crypto-Assets Regulation) became fully effective January 2026, 
 **Expand-to:** Full EU CASP population (150-180 licensed entities), plus the ~500 VASPs that survive MiCA consolidation (from ~3,100 pre-MiCA). Secondary: non-EU crypto firms seeking EU market access via MiCA passporting.
 
 ## Proposed Solution & Wedge
-AI compliance assistant that ingests MiCA regulation text, ESMA technical standards, and national regulator guidance, then helps compliance teams: (1) generate required disclosures (white papers, risk assessments), (2) monitor marketing materials for MiCA compliance, (3) track regulatory changes and assess impact. Wedge: automated MiCA marketing compliance checker — scan website/social media for non-compliant crypto promotional claims.
+AI compliance assistant that ingests MiCA regulation text, ESMA technical standards, and national regulator guidance, then helps compliance teams: (1) generate required disclosures (crypto-asset white papers, risk assessments), (2) track regulatory changes and assess impact on their specific license type, (3) prepare and maintain ongoing reporting requirements. 
+
+**Wedge: automated MiCA white paper and disclosure generation.** CASPs must produce crypto-asset white papers with specific mandatory content (Article 6 MiCA). No tool automates this — it's currently done by law firms at EUR 10-30K per white paper. MiCAGuard generates draft disclosures from structured input, with regulatory traceability to specific MiCA articles and ESMA technical standards.
+
+*Note: Marketing compliance monitoring is already served by Sedric AI (500+ institutions, RegTech100 2026). Shifted wedge to disclosure generation where no tool exists.*
 
 ## Pricing Model
 - Starter (EUR 299/mo): Marketing compliance scanning, basic regulatory Q&A
