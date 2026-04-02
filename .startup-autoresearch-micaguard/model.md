@@ -10,9 +10,9 @@ MiCA (Markets in Crypto-Assets Regulation) became fully effective January 2026, 
 ## Proposed Solution & Wedge
 AI compliance assistant that ingests MiCA regulation text, ESMA technical standards, and national regulator guidance, then helps compliance teams: (1) generate required disclosures (crypto-asset white papers, risk assessments), (2) track regulatory changes and assess impact on their specific license type, (3) prepare and maintain ongoing reporting requirements. 
 
-**Wedge: automated MiCA white paper and disclosure generation.** CASPs must produce crypto-asset white papers with specific mandatory content (Article 6 MiCA). No tool automates this — it's currently done by law firms at EUR 10-30K per white paper. MiCAGuard generates draft disclosures from structured input, with regulatory traceability to specific MiCA articles and ESMA technical standards.
+**Wedge: ongoing MiCA compliance operations platform.** CASPs face recurring compliance obligations: (1) periodic reporting to NCAs (transaction volumes, complaints, significant incidents), (2) regulatory change tracking as ESMA publishes new technical standards and guidance, (3) ongoing disclosure updates when material changes occur, (4) complaints handling and record-keeping per Article 71. No single tool integrates these recurring MiCA-specific operations. Current approach: spreadsheets + law firm retainers.
 
-*Note: Marketing compliance monitoring is already served by Sedric AI (500+ institutions, RegTech100 2026). Shifted wedge to disclosure generation where no tool exists.*
+*Note: Marketing compliance monitoring already served by Sedric AI. White paper generation is a one-time deliverable, poor SaaS fit. Wedge shifted to recurring compliance operations — the "MiCA operating system" for mid-market CASPs.*
 
 ## Pricing Model
 - Starter (EUR 299/mo): Marketing compliance scanning, basic regulatory Q&A

@@ -22,3 +22,12 @@ Baseline model from startup ideation phase. Key strengths: team fit (E1:9), timi
 **Wedge shift:** Moved from marketing compliance (occupied by Sedric) to disclosure generation (crypto-asset white papers per Article 6 MiCA). No tool automates this; currently done by law firms at EUR 10-30K per white paper. This is the remaining gap.
 **B1 dropped 6→5:** The competitive landscape is more developed than assumed. Every compliance layer has established, well-funded players. The marketing wedge is occupied.
 **C2 dropped 7→6:** New disclosure generation wedge is unvalidated. Need to confirm white paper generation is a recurring, SaaS-worthy task (not a one-time deliverable).
+
+## Cycle 3 — Wedge validation + second shift_wedge
+**Score: 71/100** (-1)
+**Scorecard:** A1:8 A2:8 B1:5 B2:6 C1:8 **C2:5↓** D1:7 D2:7 E1:9 E2:8
+**Mutation:** shift_wedge — disclosure generation → ongoing compliance operations platform
+**Research:** MiCA white papers are mandatory but ONE-TIME deliverables per token. Updates only for "material changes." Templates already exist (CCRI). Law firms offer drafting at EUR 5-15K. This is a project, not SaaS. CCRI, MiCA Crypto Alliance, LEXR, CERHA HEMPEL, Inteliumlaw all offer this service.
+**Wedge shift:** Moved from white paper generation (one-time) to ongoing compliance operations: periodic NCA reporting, regulatory change tracking, disclosure updates, complaints handling/record-keeping. These are RECURRING tasks that justify monthly subscription.
+**C2 dropped 6→5:** Second wedge shift in two cycles — not a good sign. The "ongoing MiCA operations" wedge is plausible but completely unvalidated. Need to research: what exactly are the recurring MiCA obligations? How much time do they take? Is this a real workflow pain?
+**Emerging concern:** We're now on the third wedge attempt. Marketing (occupied by Sedric), disclosures (one-time), ongoing operations (unvalidated). The product needs a clear, defensible entry point.
